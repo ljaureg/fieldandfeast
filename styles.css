@@ -36,7 +36,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-    font-family: var(--fonts);
 }
 ol, ul {
 	list-style: none;
@@ -77,6 +76,7 @@ main {
     justify-content: center;
 }
 body {
+    font-family: 'Playfair Display', sans-serif;
     font-family: var(--fonts);
     color: var(--dark-charcoal);
     background: var(--linen);
